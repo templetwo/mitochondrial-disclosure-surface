@@ -109,9 +109,9 @@ The atlas is organized into eleven sections plus two end notes:
 
 ## How to Cite
 
-> Vasquez, A., Sr., & Claude (Anthropic, Opus 4.7). (2026). *The Mitochondrial Disclosure Surface: An Atlas of VDAC1, Cardiolipin, and the Sensitization Axis* (Working Monograph v0.3). The Temple of Two. https://doi.org/10.5281/zenodo.XXXXXXX
+> Vasquez, A., Sr., & Claude (Anthropic, Opus 4.7). (2026). *The Mitochondrial Disclosure Surface: An Atlas of VDAC1, Cardiolipin, and the Sensitization Axis* (Working Monograph v0.3). The Temple of Two. https://doi.org/10.5281/zenodo.20373134
 
-The DOI above is a placeholder (`10.5281/zenodo.XXXXXXX`) and will be filled in when the Zenodo release is created. `CITATION.cff` in the repository root provides the same metadata in machine-readable form for citation managers and the GitHub "Cite this repository" widget.
+The version DOI above ([`10.5281/zenodo.20373134`](https://doi.org/10.5281/zenodo.20373134)) points to v0.3 specifically; the concept DOI [`10.5281/zenodo.20373133`](https://doi.org/10.5281/zenodo.20373133) always resolves to the latest version. `CITATION.cff` in the repository root provides the same metadata in machine-readable form for citation managers and the GitHub "Cite this repository" widget.
 
 ---
 
