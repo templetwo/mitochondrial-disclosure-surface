@@ -44,7 +44,7 @@ date-released: "2026-05-25"
 license: CC-BY-4.0
 repository-code: "https://github.com/templetwo/mitochondrial-disclosure-surface"
 url: "https://thetempleoftwo.com"
-# doi: 10.5281/zenodo.XXXXXXX   # fill in after the Zenodo release mints the DOI
+doi: 10.5281/zenodo.20373134
 preferred-citation:
   type: report
   title: "The Mitochondrial Disclosure Surface: An Atlas of VDAC1, Cardiolipin, and the Sensitization Axis"
@@ -59,4 +59,4 @@ preferred-citation:
   notes: "Working Monograph v0.3"
   institution:
     name: The Temple of Two
-  # doi: 10.5281/zenodo.XXXXXXX
+      doi: 10.5281/zenodo.20373134
