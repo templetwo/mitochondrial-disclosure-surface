@@ -1,0 +1,36 @@
+{
+  "title": "The Mitochondrial Disclosure Surface: An Atlas of VDAC1, Cardiolipin, and the Sensitization Axis",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "version": "0.3",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "description": "A working synthesis, developed across multiple model architectures in a research relay, recasting the outer mitochondrial membrane as an active disclosure surface rather than a passive permeability barrier. Mitochondrial state is continuously published into the cytosol through the lipid-protein interface of the outer membrane, with the class and bandwidth of disclosure set by a high-dimensional physical state vector. VDAC1 is repositioned as a central witness-node, a high-bandwidth readout and effector hub defined by its partner network, rather than a sovereign decider of cellular fate. The v0.3 sequential-sensitization spine proposes VDAC1 oligomerization as a single upstream sensitization axis whose amplitude and duration determine whether stress resolves as metabolic exchange, mitophagic containment, an inflammatory mtDNA alarm via cytosolic cGAS, or apoptotic commitment through BAX/BAK macropores. A falsifiable multiplexed regime-discrimination experiment is proposed (Section VII) to distinguish the sequential-sensitization spine from the parallel-attractor alternative; four load-bearing literature claims carry explicit verification-status flags.",
+  "creators": [
+    {
+      "name": "Vasquez, Anthony, Sr.",
+      "affiliation": "The Temple of Two"
+    },
+    {
+      "name": "Claude (Anthropic, Opus 4.7)",
+      "affiliation": "Anthropic"
+    }
+  ],
+  "keywords": [
+    "mitochondria",
+    "VDAC1",
+    "cardiolipin",
+    "outer mitochondrial membrane",
+    "apoptosis",
+    "MOMP",
+    "BAX/BAK",
+    "Bcl-xL",
+    "cGAS-STING",
+    "mitophagy",
+    "mtDNA",
+    "membrane biophysics",
+    "cell biology"
+  ],
+  "notes": "Working monograph v0.3. Developed in a multi-architecture research relay and composed in collaboration with Claude (Anthropic, Opus 4.7) as collaborator-instance. None of the four verification-flagged claims is asserted as established; see the manuscript's 'Notes on Verification Status'."
+}
