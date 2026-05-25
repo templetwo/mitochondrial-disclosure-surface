@@ -2,7 +2,7 @@
 
 > The outer mitochondrial membrane is not a passive permeability barrier but an active disclosure surface — the threshold where mitochondrial privacy becomes cellular truth — and VDAC1 is not the sovereign decider of cellular fate but a central witness-node whose state reveals whether the cell remains in exchange, enters containment, raises alarm, or commits to death.
 
-**DOI:** `10.5281/zenodo.XXXXXXX` *(placeholder — to be minted when the Zenodo release is created)*
+**DOI:** `10.5281/zenodo.20373134` | [https://doi.org/10.5281/zenodo.20373134](https://doi.org/10.5281/zenodo.20373134)
 **License:** [CC BY 4.0](LICENSE)
 **Version:** Working Monograph v0.3
 **Status:** Working monograph — a defensible unifying synthesis, not yet peer-reviewed and not asserted as predictive law.
