@@ -6,8 +6,8 @@
 
 ¹ Independent Researcher, Pennsylvania, USA
 
-**Correspondence:** Anthony Vasquez Sr. — [corresponding email to insert]
-ORCID: [insert]
+**Correspondence:** Anthony Vasquez Sr. — vasquezaj3921@delval.com
+ORCID: (https://orcid.org/0009-0000-6440-1506)
 
 **Keywords:** VDAC1; mitochondrial outer membrane permeabilization; Bcl-xL; cGAS–STING; cardiolipin; apoptosis
 
@@ -103,7 +103,7 @@ A.V. conceived the framework, performed the literature synthesis, designed the p
 
 ## Acknowledgements
 
-The framework was developed through a multi-architecture research synthesis. The author thanks the maintainers of the open structural and cell-biological literature on which this synthesis depends. [Add funding/collaborator acknowledgements as applicable.]
+The framework was developed through a multi-architecture research synthesis. The author thanks the maintainers of the open structural and cell-biological literature on which this synthesis depends. 
 
 ## Competing Interests
 
