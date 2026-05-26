@@ -6,7 +6,7 @@
 
 ¹ Independent Researcher, Pennsylvania, USA
 
-**Correspondence:** Anthony Vasquez Sr. — vasquezaj3921@delval.com
+**Correspondence:** Anthony Vasquez Sr. — vasquezaj3921@delval.edu
 ORCID: (https://orcid.org/0009-0000-6440-1506)
 
 **Keywords:** VDAC1; mitochondrial outer membrane permeabilization; Bcl-xL; cGAS–STING; cardiolipin; apoptosis
