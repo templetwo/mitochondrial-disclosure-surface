@@ -45,7 +45,7 @@ This sequence is consistent with the established downstream architecture of perm
 
 ### The five-state spectrum
 
-The spine resolves into five states along a single axis of increasing stress amplitude (Table 1). The transition of consequence is the crossing from State 3 (partial, survivable inflammatory disclosure) to State 4 (the sensitization threshold at which VDAC1-N engages the Bcl-xL groove), which we model as a separatrix crossing in state space rather than a discrete decision. Containment is actively maintained upstream of this crossing: Parkin ubiquitinates VDAC1 at Lys53, restraining oligomerization and limiting mtDNA release, which positions mitophagy and apoptosis as antagonistic outcomes of the same node (Ham et al, 2020).
+The spine resolves into five states along a single axis of increasing stress amplitude (Table 1). The transition of consequence is the crossing from State 3 (partial, survivable inflammatory disclosure) to State 4 (the sensitization threshold at which VDAC1-N engages the Bcl-xL groove), which we model as a separatrix crossing in state space rather than a discrete decision. Containment is actively maintained upstream of this crossing: Parkin ubiquitinates VDAC1 to restrain its oligomerization and limit mtDNA release, positioning mitophagy and apoptosis as antagonistic outcomes of the same node (Ham et al, 2020).
 
 ### A falsifiable minimal multiplexed experiment
 
@@ -137,36 +137,36 @@ The author declares no competing interests.
 
 ## References
 
-Bayrhuber M et al. (2008) Structure of the human voltage-dependent anion channel. *Proc Natl Acad Sci USA* 105: 15370–15375
+Bayrhuber M, Meins T, Habeck M, Becker S, Giller K, Villinger S, Vonrhein C, Griesinger C, Zweckstetter M, Zeth K (2008) Structure of the human voltage-dependent anion channel. *Proc Natl Acad Sci USA* 105: 15370–15375
 
-Chu CT et al. (2013) Cardiolipin externalization to the outer mitochondrial membrane acts as an elimination signal for mitophagy in neuronal cells. *Nat Cell Biol* 15: 1197–1205
+Chu CT, Ji J, Dagda RK, Jiang JF, Tyurina YY, Kapralov AA, Tyurin VA, Yanamala N, Shrivastava IH, Mohammadyani D, Wang KZQ, Zhu J, Klein-Seetharaman J, Balasubramanian K, Amoscato AA, Borisenko G, Huang Z, Gusdon AM, Cheikhi A, Steer EK et al (2013) Cardiolipin externalization to the outer mitochondrial membrane acts as an elimination signal for mitophagy in neuronal cells. *Nat Cell Biol* 15: 1197–1205
 
-Daniilidis M et al. (2025) Structural basis of apoptosis induction by the mitochondrial voltage-dependent anion channel. *Nat Commun* 16: 9481
+Daniilidis M, Günsel U, Broutzakis G, Leitl KD, Janowski R, Fredriksson K, Niessing D, Gatsogiannis C, Hagn F (2025) Structural basis of apoptosis induction by the mitochondrial voltage-dependent anion channel. *Nat Commun* 16: 9481
 
-Ham SJ et al. (2020) Decision between mitophagy and apoptosis by Parkin via VDAC1 ubiquitination. *Proc Natl Acad Sci USA* 117: 4281–4291
+Ham SJ, Lee D, Yoo H, Jun K, Shin H, Chung J (2020) Decision between mitophagy and apoptosis by Parkin via VDAC1 ubiquitination. *Proc Natl Acad Sci USA* 117: 4281–4291
 
-Huang L et al. (2015) A new fungal diterpene induces VDAC1-dependent apoptosis in Bax/Bak-deficient cells. *J Biol Chem* 290: 23563–23578
+Huang L, Han J, Ben-Hail D, He L, Li B, Chen Z, Wang Y, Yang Y, Liu L, Zhu Y, Shoshan-Barmatz V, Liu H, Chen Q (2015) A new fungal diterpene induces VDAC1-dependent apoptosis in Bax/Bak-deficient cells. *J Biol Chem* 290: 23563–23578
 
-Jahn H et al. (2023) Phospholipids are imported into mitochondria by VDAC, a dimeric beta barrel scramblase. *Nat Commun* 14: 8115
+Jahn H, Bartoš L, Dearden GI, Dittman JS, Holthuis JCM, Vácha R, Menon AK (2023) Phospholipids are imported into mitochondria by VDAC, a dimeric beta-barrel scramblase. *Nat Commun* 14: 8115
 
-Kagan VE et al. (2005) Cytochrome c acts as a cardiolipin oxygenase required for release of proapoptotic factors. *Nat Chem Biol* 1: 223–232
+Kagan VE, Tyurin VA, Jiang J, Tyurina YY, Ritov VB, Amoscato AA, Osipov AN, Belikova NA, Kapralov AA, Kini V, Vlasova II, Zhao Q, Zou M, Di P, Svistunenko DA, Kurnikov IV, Borisenko GG (2005) Cytochrome c acts as a cardiolipin oxygenase required for release of proapoptotic factors. *Nat Chem Biol* 1: 223–232
 
 Keinan N, Tyomkin D, Shoshan-Barmatz V (2010) Oligomerization of the mitochondrial protein voltage-dependent anion channel is coupled to the induction of apoptosis. *Mol Cell Biol* 30: 5698–5709
 
-Lafargue E et al. (2025) Membrane lipid composition modulates the organization of VDAC1, a mitochondrial gatekeeper. *Commun Biol* 8: 936
+Lafargue E, Duneau JP, Buzhinsky N, Ornelas P, Ortega A, Ravishankar V, Sturgis J, Casuso I, Bergdoll L (2025) Membrane lipid composition modulates the organization of VDAC1, a mitochondrial gatekeeper. *Commun Biol* 8: 936
 
-McArthur K et al. (2018) BAK/BAX macropores facilitate mitochondrial herniation and mtDNA efflux during apoptosis. *Science* 359: eaao6047
+McArthur K, Whitehead LW, Heddleston JM, Li L, Padman BS, Oorschot V, Geoghegan ND, Chappaz S, Davidson S, San Chin H, Lane RM, Dramicanin M, Saunders TL, Sugiana C, Lessene R, Osellame LD, Chew TL, Dewson G, Lazarou M, Ramm G et al (2018) BAK/BAX macropores facilitate mitochondrial herniation and mtDNA efflux during apoptosis. *Science* 359: eaao6047
 
-Puighermanal E et al. (2024) Cannabidiol ameliorates mitochondrial disease via PPARγ activation in preclinical models. *Nat Commun* 15: 7730
+Puighermanal E, Luna-Sánchez M, Gella A, van der Walt G, Urpi A, Royo M, Tena-Morraja P, Appiah I, de Donato MH, Menardy F, Bianchi P, Esteve-Codina A, Rodríguez-Pascau L, Vergara C, Gómez-Pallarès M, Marsicano G, Bellocchio L, Martinell M, Sanz E, Jurado S et al (2024) Cannabidiol ameliorates mitochondrial disease via PPARγ activation in preclinical models. *Nat Commun* 15: 7730
 
-Ravishankar V et al. (2025) A membrane-disruptive action of VBIT-4 challenges its role as a widely used VDAC oligomerization inhibitor. *bioRxiv* 2025.06.30.661942 [preprint]
+Ravishankar V, Borges-Araújo L, Rajendran M, Lafargue E, Byrne D, Buzhinsky N, Wolfe MS, Fitzgerald W, Bautista NA, Beyene BG, Larimi MG, Duneau JP, Sturgis J, Bezrukov SM, Casuso I, Rostovtseva T, Bergdoll L (2025) A membrane-disruptive action of VBIT-4 challenges its role as a widely used VDAC1 oligomerization inhibitor. *bioRxiv* https://doi.org/10.1101/2025.06.30.661942 [preprint]
 
-Riley JS et al. (2018) Mitochondrial inner membrane permeabilisation enables mtDNA release during apoptosis. *EMBO J* 37: e99238
+Riley JS, Quarato G, Cloix C, Lopez J, O'Prey J, Pearson M, Chapman J, Sesaki H, Carlin LM, Passos JF, Wheeler AP, Oberst A, Ryan KM, Tait SWG (2018) Mitochondrial inner membrane permeabilisation enables mtDNA release during apoptosis. *EMBO J* 37: e99238
 
-Rostovtseva TK et al. (2008) Tubulin binding blocks mitochondrial voltage-dependent anion channel and regulates respiration. *Proc Natl Acad Sci USA* 105: 18746–18751
+Rostovtseva TK, Sheldon KL, Hassanzadeh E, Monge C, Saks V, Bezrukov SM, Sackett DL (2008) Tubulin binding blocks mitochondrial voltage-dependent anion channel and regulates respiration. *Proc Natl Acad Sci USA* 105: 18746–18751
 
-Szabadkai G et al. (2006) Chaperone-mediated coupling of endoplasmic reticulum and mitochondrial Ca2+ channels. *J Cell Biol* 175: 901–911
+Szabadkai G, Bianchi K, Várnai P, De Stefani D, Wieckowski MR, Cavagna D, Nagy AI, Balla T, Rizzuto R (2006) Chaperone-mediated coupling of endoplasmic reticulum and mitochondrial Ca2+ channels. *J Cell Biol* 175: 901–911
 
-Ujwal R et al. (2008) The crystal structure of mouse VDAC1 at 2.3 Å resolution reveals mechanistic insights into metabolite gating. *Proc Natl Acad Sci USA* 105: 17742–17747
+Ujwal R, Cascio D, Colletier JP, Faham S, Zhang J, Toro L, Ping P, Abramson J (2008) The crystal structure of mouse VDAC1 at 2.3 Å resolution reveals mechanistic insights into metabolite gating. *Proc Natl Acad Sci USA* 105: 17742–17747
 
-West AP et al. (2015) Mitochondrial DNA stress primes the antiviral innate immune response. *Nature* 520: 553–557
+West AP, Khoury-Hanold W, Staron M, Tal MC, Pineda CM, Lang SM, Bestwick M, Duguay BA, Raimundo N, MacDuff DA, Kaech SM, Smiley JR, Means RE, Iwasaki A, Shadel GS (2015) Mitochondrial DNA stress primes the antiviral innate immune response. *Nature* 520: 553–557
