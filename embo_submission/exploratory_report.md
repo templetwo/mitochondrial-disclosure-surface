@@ -1,4 +1,4 @@
-# The Mitochondrial Disclosure Surface: VDAC1 Oligomerization as a Single Sensitization Axis Gating Inflammatory and Apoptotic Membrane Disclosure
+# The Mitochondrial Disclosure Surface: VDAC1 Oligomerization as a Unified Sensitization Axis
 
 **Running title:** VDAC1 as the mitochondrial sensitization axis
 
@@ -7,7 +7,7 @@
 ¹ Independent Researcher, Pennsylvania, USA
 
 **Correspondence:** Anthony Vasquez Sr. — vasquezaj3921@delval.edu
-ORCID: (https://orcid.org/0009-0000-6440-1506)
+ORCID: https://orcid.org/0009-0000-6440-1506
 
 **Keywords:** VDAC1; mitochondrial outer membrane permeabilization; Bcl-xL; cGAS–STING; cardiolipin; apoptosis
 
@@ -15,7 +15,7 @@ ORCID: (https://orcid.org/0009-0000-6440-1506)
 
 ## Abstract
 
-The outer mitochondrial membrane is traditionally viewed as a passive barrier or a binary pore during cell death. We propose a reframing in which the outer membrane is an active *disclosure surface* whose physical state vector continuously publishes mitochondrial condition to the cytosol. Central to this model is a sequential-sensitization spine in which VDAC1 oligomerization functions as a single upstream axis gating downstream cellular responses. As stress escalates, progressive VDAC1 oligomerization and N-terminal helix exposure move the membrane through distinct regimes: metabolic exchange, mitophagic containment via cardiolipin externalization, inflammatory alarm via sublethal mtDNA release, and terminal apoptosis. Building on recent structural evidence that the exposed VDAC1 N-terminus occupies the BH3-binding groove of Bcl-xL, we propose that sustained N-terminal exposure neutralizes Bcl-xL and derepresses BAX/BAK to form macropores — providing a unified mechanistic link between inflammatory and apoptotic disclosure. To distinguish this sequential model from independent parallel-attractor models, we outline a minimal multiplexed experiment tracking VDAC1-N/Bcl-xL co-occupancy alongside mtDNA and cytochrome *c* release, with explicit falsification criteria. This framework repositions VDAC1 as a context-dependent witness-node integrating local lipid, redox, and partner signals.
+The outer mitochondrial membrane is traditionally viewed as a passive barrier or, in death, a binary pore. We propose a reframing in which it is an active *disclosure surface* whose physical state vector continuously publishes mitochondrial condition to the cytosol. Central to this model is a sequential-sensitization spine in which VDAC1 oligomerization functions as a single upstream axis gating downstream responses. As stress escalates, progressive oligomerization and N-terminal helix exposure move the membrane through distinct regimes: metabolic exchange, mitophagic containment via cardiolipin externalization, inflammatory alarm via sublethal mtDNA release, and terminal apoptosis. Building on recent structural evidence that the exposed VDAC1 N-terminus occupies the BH3-binding groove of Bcl-xL, we propose that sustained exposure neutralizes Bcl-xL and derepresses BAX/BAK to form macropores, linking inflammatory and apoptotic disclosure. To distinguish this from parallel-attractor models, we outline a multiplexed experiment tracking VDAC1-N/Bcl-xL co-occupancy alongside mtDNA and cytochrome *c* release, with falsification criteria. This repositions VDAC1 as a context-dependent witness-node integrating lipid, redox, and partner signals.
 
 ---
 
