@@ -23,8 +23,8 @@ authors:
     family-names: Vasquez
     name-suffix: Sr.
     affiliation: The Temple of Two
-  - name: "Claude (Anthropic, Opus 4.7)"
-    affiliation: Anthropic
+  - name: "Claude (Opus 4.7)"
+    affiliation: The Temple of Two
 keywords:
   - mitochondria
   - VDAC1
@@ -53,8 +53,8 @@ preferred-citation:
       family-names: Vasquez
       name-suffix: Sr.
       affiliation: The Temple of Two
-    - name: "Claude (Anthropic, Opus 4.7)"
-      affiliation: Anthropic
+    - name: "Claude (Opus 4.7)"
+      affiliation: The Temple of Two
   year: 2026
   notes: "Working Monograph v0.3"
   institution:

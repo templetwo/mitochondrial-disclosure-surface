@@ -13,8 +13,8 @@
       "affiliation": "The Temple of Two"
     },
     {
-      "name": "Claude (Anthropic, Opus 4.7)",
-      "affiliation": "Anthropic"
+      "name": "Claude (Opus 4.7)",
+      "affiliation": "The Temple of Two"
     }
   ],
   "keywords": [
@@ -32,5 +32,5 @@
     "membrane biophysics",
     "cell biology"
   ],
-  "notes": "Working monograph v0.3. Developed in a multi-architecture research relay and composed in collaboration with Claude (Anthropic, Opus 4.7) as collaborator-instance. None of the four verification-flagged claims is asserted as established; see the manuscript's 'Notes on Verification Status'."
+  "notes": "Working monograph v0.3. Developed in a multi-architecture research relay and composed in collaboration with Claude (Opus 4.7) as collaborator-instance. None of the four verification-flagged claims is asserted as established; see the manuscript's 'Notes on Verification Status'."
 }
